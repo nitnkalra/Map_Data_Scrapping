@@ -1,0 +1,584 @@
+Direction,Entry,Exit,Toll Price,Timestamp
+Northbound,Jones Branch Drive/Route 123,495 Express End (near MD),$0.00,2023-04-12 22:37:58
+Northbound,Westpark Drive,495 Express End (near MD),$3.05,2023-04-12 22:38:01
+Northbound,Westpark Drive,Route 267,$3.05,2023-04-12 22:38:04
+Northbound,Westpark Drive,Jones Branch Drive/Route 123,$3.05,2023-04-12 22:38:07
+Northbound,Interstate 66,495 Express End (near MD),$4.10,2023-04-12 22:38:09
+Northbound,Interstate 66,Route 267,$4.10,2023-04-12 22:38:11
+Northbound,Interstate 66,Jones Branch Drive/Route 123,$4.10,2023-04-12 22:38:14
+Northbound,Interstate 66,Westpark Drive,$3.20,2023-04-12 22:38:16
+Northbound,Interstate 66,Route 7 (Leesburg Pike),$3.20,2023-04-12 22:38:18
+Northbound,Gallows Road,495 Express End (near MD),$3.20,2023-04-12 22:38:21
+Northbound,Gallows Road,Route 267,$3.20,2023-04-12 22:38:23
+Northbound,Gallows Road,Jones Branch Drive/Route 123,$1.60,2023-04-12 22:38:25
+Northbound,Gallows Road,Westpark Drive,$1.60,2023-04-12 22:38:28
+Northbound,Gallows Road,Route 7 (Leesburg Pike),$1.10,2023-04-12 22:38:30
+Northbound,Gallows Road,Interstate 66,$6.60,2023-04-12 22:38:32
+Northbound,Gallows Road,Lee Highway (Route 29),$3.00,2023-04-12 22:38:35
+Northbound,Braddock Road,495 Express End (near MD),$8.75,2023-04-12 22:38:37
+Northbound,Braddock Road,Route 267,$7.85,2023-04-12 22:38:39
+Northbound,Braddock Road,Jones Branch Drive/Route 123,$5.75,2023-04-12 22:38:42
+Northbound,Braddock Road,Westpark Drive,$4.65,2023-04-12 22:38:44
+Northbound,Braddock Road,Route 7 (Leesburg Pike),$4.25,2023-04-12 22:38:46
+Northbound,Braddock Road,Interstate 66,$3.60,2023-04-12 22:38:49
+Northbound,Braddock Road,Lee Highway (Route 29),$2.00,2023-04-12 22:38:51
+Northbound,I-95/I-395/I-495 (Springfield Interchange),495 Express End (near MD),$9.35,2023-04-12 22:38:54
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Route 267,$8.45,2023-04-12 22:38:56
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Jones Branch Drive/Route 123,$6.35,2023-04-12 22:38:58
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Westpark Drive,$5.25,2023-04-12 22:39:00
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Route 7 (Leesburg Pike),$4.85,2023-04-12 22:39:03
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Interstate 66,$4.20,2023-04-12 22:39:05
+Northbound,I-95/I-395/I-495 (Springfield Interchange),Lee Highway (Route 29),$2.60,2023-04-12 22:39:07
+Northbound,I-95/I-395 Express Lanes ramps,495 Express End (near MD),$9.35,2023-04-12 22:39:10
+Northbound,I-95/I-395 Express Lanes ramps,Route 267,$8.45,2023-04-12 22:39:12
+Northbound,I-95/I-395 Express Lanes ramps,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:39:15
+Northbound,I-95/I-395 Express Lanes ramps,Westpark Drive,$5.25,2023-04-12 22:39:17
+Northbound,I-95/I-395 Express Lanes ramps,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:39:19
+Northbound,I-95/I-395 Express Lanes ramps,Interstate 66,$4.20,2023-04-12 22:39:22
+Northbound,I-95/I-395 Express Lanes ramps,Lee Highway (Route 29),$2.60,2023-04-12 22:39:24
+Northbound,I-95/I-395 Express Lanes ramps,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:39:26
+Northbound,Near Pentagon/Eads Street to DC,Washington D.C.,$1.05,2023-04-12 22:39:29
+Northbound,Shirlington Circle,Washington D.C.,nan,2023-04-12 22:39:31
+Northbound,Shirlington Circle,Pentagon/Eads Street,nan,2023-04-12 22:39:34
+Northbound,Shirlington Circle,Washington Boulevard/Route 27,nan,2023-04-12 22:39:36
+Northbound,Seminary Road,Washington D.C.,nan,2023-04-12 22:39:38
+Northbound,Seminary Road,Washington Boulevard/Route 27,nan,2023-04-12 22:39:41
+Northbound,Seminary Road,Pentagon/Eads Street,nan,2023-04-12 22:39:43
+Northbound,I-395 Near Edsall Road,Washington D.C.,nan,2023-04-12 22:39:45
+Northbound,I-395 Near Edsall Road,Pentagon/Eads Street,nan,2023-04-12 22:39:48
+Northbound,I-395 Near Edsall Road,Washington Boulevard/Route 27,nan,2023-04-12 22:39:50
+Northbound,I-395 Near Edsall Road,Seminary Road,nan,2023-04-12 22:39:52
+Northbound,495 Express Lanes/I-495/I-95,Washington D.C.,nan,2023-04-12 22:39:55
+Northbound,495 Express Lanes/I-495/I-95,Pentagon/Eads Street,nan,2023-04-12 22:39:57
+Northbound,495 Express Lanes/I-495/I-95,Washington Boulevard/Route 27,nan,2023-04-12 22:39:59
+Northbound,495 Express Lanes/I-495/I-95,Seminary Road,nan,2023-04-12 22:40:02
+Northbound,495 Express Lanes/I-495/I-95,I-395 Near Edsall Road,nan,2023-04-12 22:40:04
+Northbound,Old Keene Mill Road/Route 644,495 Express End (near MD),$9.35,2023-04-12 22:40:07
+Northbound,Old Keene Mill Road/Route 644,Route 267,$8.45,2023-04-12 22:40:09
+Northbound,Old Keene Mill Road/Route 644,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:40:11
+Northbound,Old Keene Mill Road/Route 644,Westpark Drive,$5.25,2023-04-12 22:40:14
+Northbound,Old Keene Mill Road/Route 644,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:40:16
+Northbound,Old Keene Mill Road/Route 644,Interstate 66,$4.20,2023-04-12 22:40:18
+Northbound,Old Keene Mill Road/Route 644,Lee Highway (Route 29),$2.60,2023-04-12 22:40:21
+Northbound,Old Keene Mill Road/Route 644,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:40:23
+Northbound,Old Keene Mill Road/Route 644,Washington D.C.,nan,2023-04-12 22:40:25
+Northbound,Old Keene Mill Road/Route 644,Pentagon/Eads Street,nan,2023-04-12 22:40:28
+Northbound,Old Keene Mill Road/Route 644,Washington Boulevard/Route 27,nan,2023-04-12 22:40:30
+Northbound,Old Keene Mill Road/Route 644,Seminary Road,nan,2023-04-12 22:40:33
+Northbound,Old Keene Mill Road/Route 644,I-395 Near Edsall Road,nan,2023-04-12 22:40:35
+Northbound,Old Keene Mill Road/Route 644,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:40:38
+Northbound,Franconia-Springfield Parkway/Route 289,495 Express End (near MD),$9.35,2023-04-12 22:40:40
+Northbound,Franconia-Springfield Parkway/Route 289,Route 267,$8.45,2023-04-12 22:40:43
+Northbound,Franconia-Springfield Parkway/Route 289,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:40:45
+Northbound,Franconia-Springfield Parkway/Route 289,Westpark Drive,$5.25,2023-04-12 22:40:47
+Northbound,Franconia-Springfield Parkway/Route 289,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:40:50
+Northbound,Franconia-Springfield Parkway/Route 289,Interstate 66,$4.85,2023-04-12 22:40:52
+Northbound,Franconia-Springfield Parkway/Route 289,Lee Highway (Route 29),$4.85,2023-04-12 22:40:54
+Northbound,Franconia-Springfield Parkway/Route 289,I-95/I-395/I-495 (Springfield Interchange),$2.60,2023-04-12 22:40:57
+Northbound,Franconia-Springfield Parkway/Route 289,Washington D.C.,nan,2023-04-12 22:40:59
+Northbound,Franconia-Springfield Parkway/Route 289,Pentagon/Eads Street,nan,2023-04-12 22:41:01
+Northbound,Franconia-Springfield Parkway/Route 289,Washington Boulevard/Route 27,nan,2023-04-12 22:41:04
+Northbound,Franconia-Springfield Parkway/Route 289,Seminary Road,nan,2023-04-12 22:41:06
+Northbound,Franconia-Springfield Parkway/Route 289,I-395 Near Edsall Road,nan,2023-04-12 22:41:09
+Northbound,Franconia-Springfield Parkway/Route 289,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:41:11
+Northbound,I-95 Near Fairfax County Parkway,495 Express End (near MD),$9.35,2023-04-12 22:41:14
+Northbound,I-95 Near Fairfax County Parkway,Route 267,$8.45,2023-04-12 22:41:16
+Northbound,I-95 Near Fairfax County Parkway,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:41:19
+Northbound,I-95 Near Fairfax County Parkway,Westpark Drive,$5.25,2023-04-12 22:41:21
+Northbound,I-95 Near Fairfax County Parkway,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:41:23
+Northbound,I-95 Near Fairfax County Parkway,Interstate 66,$4.20,2023-04-12 22:41:26
+Northbound,I-95 Near Fairfax County Parkway,Lee Highway (Route 29),$2.60,2023-04-12 22:41:28
+Northbound,I-95 Near Fairfax County Parkway,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:41:31
+Northbound,I-95 Near Fairfax County Parkway,Washington D.C.,nan,2023-04-12 22:41:33
+Northbound,I-95 Near Fairfax County Parkway,Pentagon/Eads Street,nan,2023-04-12 22:41:35
+Northbound,I-95 Near Fairfax County Parkway,Washington Boulevard/Route 27,nan,2023-04-12 22:41:38
+Northbound,I-95 Near Fairfax County Parkway,Seminary Road,nan,2023-04-12 22:41:40
+Northbound,I-95 Near Fairfax County Parkway,I-395 Near Edsall Road,nan,2023-04-12 22:41:43
+Northbound,I-95 Near Fairfax County Parkway,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:41:45
+Northbound,I-95 Near Fairfax County Parkway,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:41:48
+Northbound,I-95 Near Fairfax County Parkway,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:41:50
+Northbound,US-1,495 Express End (near MD),$9.35,2023-04-12 22:41:53
+Northbound,US-1,Route 267,$8.45,2023-04-12 22:41:55
+Northbound,US-1,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:41:58
+Northbound,US-1,Westpark Drive,$5.25,2023-04-12 22:42:00
+Northbound,US-1,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:42:02
+Northbound,US-1,Interstate 66,$4.20,2023-04-12 22:42:05
+Northbound,US-1,Lee Highway (Route 29),$2.60,2023-04-12 22:42:07
+Northbound,US-1,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:42:09
+Northbound,US-1,Washington D.C.,nan,2023-04-12 22:42:12
+Northbound,US-1,Pentagon/Eads Street,nan,2023-04-12 22:42:14
+Northbound,US-1,Washington Boulevard/Route 27,nan,2023-04-12 22:42:17
+Northbound,US-1,Seminary Road,nan,2023-04-12 22:42:19
+Northbound,US-1,I-395 Near Edsall Road,nan,2023-04-12 22:42:22
+Northbound,US-1,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:42:24
+Northbound,US-1,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:42:27
+Northbound,US-1,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:42:29
+Northbound,US-1,Fairfax County Parkway/Route 286,nan,2023-04-12 22:42:32
+Northbound,Gordon Boulevard/Route 123,495 Express End (near MD),$9.35,2023-04-12 22:42:34
+Northbound,Gordon Boulevard/Route 123,Route 267,$8.45,2023-04-12 22:42:37
+Northbound,Gordon Boulevard/Route 123,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:42:39
+Northbound,Gordon Boulevard/Route 123,Westpark Drive,$5.25,2023-04-12 22:42:41
+Northbound,Gordon Boulevard/Route 123,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:42:44
+Northbound,Gordon Boulevard/Route 123,Interstate 66,$4.20,2023-04-12 22:42:46
+Northbound,Gordon Boulevard/Route 123,Lee Highway (Route 29),$2.60,2023-04-12 22:42:48
+Northbound,Gordon Boulevard/Route 123,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:42:51
+Northbound,Gordon Boulevard/Route 123,Washington D.C.,nan,2023-04-12 22:42:53
+Northbound,Gordon Boulevard/Route 123,Pentagon/Eads Street,nan,2023-04-12 22:42:56
+Northbound,Gordon Boulevard/Route 123,Washington Boulevard/Route 27,nan,2023-04-12 22:42:58
+Northbound,Gordon Boulevard/Route 123,Seminary Road,nan,2023-04-12 22:43:00
+Northbound,Gordon Boulevard/Route 123,I-395 Near Edsall Road,nan,2023-04-12 22:43:03
+Northbound,Gordon Boulevard/Route 123,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:43:05
+Northbound,Gordon Boulevard/Route 123,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:43:08
+Northbound,Gordon Boulevard/Route 123,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:43:10
+Northbound,Gordon Boulevard/Route 123,Fairfax County Parkway/Route 286,nan,2023-04-12 22:43:13
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,495 Express End (near MD),$9.35,2023-04-12 22:43:16
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Route 267,$8.45,2023-04-12 22:43:18
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:43:20
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Westpark Drive,$5.25,2023-04-12 22:43:23
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:43:25
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Interstate 66,$4.20,2023-04-12 22:43:27
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Lee Highway (Route 29),$2.60,2023-04-12 22:43:30
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:43:32
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Washington D.C.,nan,2023-04-12 22:43:34
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Pentagon/Eads Street,nan,2023-04-12 22:43:37
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Washington Boulevard/Route 27,nan,2023-04-12 22:43:39
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,Seminary Road,nan,2023-04-12 22:43:42
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,I-395 Near Edsall Road,nan,2023-04-12 22:43:44
+Northbound,I-95 Near Franconia-Springfield Pkwy NB,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:43:47
+Northbound,Prince William Parkway/Route 294,495 Express End (near MD),$9.35,2023-04-12 22:43:49
+Northbound,Prince William Parkway/Route 294,Route 267,$8.45,2023-04-12 22:43:52
+Northbound,Prince William Parkway/Route 294,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:43:54
+Northbound,Prince William Parkway/Route 294,Westpark Drive,$5.25,2023-04-12 22:43:56
+Northbound,Prince William Parkway/Route 294,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:43:58
+Northbound,Prince William Parkway/Route 294,Interstate 66,$4.20,2023-04-12 22:44:01
+Northbound,Prince William Parkway/Route 294,Lee Highway (Route 29),$2.60,2023-04-12 22:44:03
+Northbound,Prince William Parkway/Route 294,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:44:06
+Northbound,Prince William Parkway/Route 294,Washington D.C.,nan,2023-04-12 22:44:08
+Northbound,Prince William Parkway/Route 294,Pentagon/Eads Street,nan,2023-04-12 22:44:10
+Northbound,Prince William Parkway/Route 294,Washington Boulevard/Route 27,nan,2023-04-12 22:44:13
+Northbound,Prince William Parkway/Route 294,Seminary Road,nan,2023-04-12 22:44:15
+Northbound,Prince William Parkway/Route 294,I-395 Near Edsall Road,nan,2023-04-12 22:44:18
+Northbound,Prince William Parkway/Route 294,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:44:20
+Northbound,Prince William Parkway/Route 294,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:44:23
+Northbound,Prince William Parkway/Route 294,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:44:25
+Northbound,Prince William Parkway/Route 294,Fairfax County Parkway/Route 286,nan,2023-04-12 22:44:28
+Northbound,Opitz Boulevard,495 Express End (near MD),$9.35,2023-04-12 22:44:31
+Northbound,Opitz Boulevard,Route 267,$8.45,2023-04-12 22:44:33
+Northbound,Opitz Boulevard,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:44:35
+Northbound,Opitz Boulevard,Westpark Drive,$5.25,2023-04-12 22:44:38
+Northbound,Opitz Boulevard,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:44:40
+Northbound,Opitz Boulevard,Interstate 66,$4.20,2023-04-12 22:44:42
+Northbound,Opitz Boulevard,Lee Highway (Route 29),$2.60,2023-04-12 22:44:45
+Northbound,Opitz Boulevard,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:44:47
+Northbound,Opitz Boulevard,Washington D.C.,nan,2023-04-12 22:44:49
+Northbound,Opitz Boulevard,Pentagon/Eads Street,nan,2023-04-12 22:44:52
+Northbound,Opitz Boulevard,Washington Boulevard/Route 27,nan,2023-04-12 22:44:54
+Northbound,Opitz Boulevard,Seminary Road,nan,2023-04-12 22:44:57
+Northbound,Opitz Boulevard,I-395 Near Edsall Road,nan,2023-04-12 22:44:59
+Northbound,Opitz Boulevard,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:45:01
+Northbound,Opitz Boulevard,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:45:04
+Northbound,Opitz Boulevard,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:45:06
+Northbound,Opitz Boulevard,Fairfax County Parkway/Route 286,nan,2023-04-12 22:45:09
+Northbound,Opitz Boulevard,I-95 Near Gordon Boulevard/Route 123,nan,2023-04-12 22:45:11
+Northbound,I-95 Near Cardinal Drive,495 Express End (near MD),$9.35,2023-04-12 22:45:14
+Northbound,I-95 Near Cardinal Drive,Route 267,$8.45,2023-04-12 22:45:17
+Northbound,I-95 Near Cardinal Drive,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:45:19
+Northbound,I-95 Near Cardinal Drive,Westpark Drive,$5.25,2023-04-12 22:45:21
+Northbound,I-95 Near Cardinal Drive,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:45:23
+Northbound,I-95 Near Cardinal Drive,Interstate 66,$4.20,2023-04-12 22:45:26
+Northbound,I-95 Near Cardinal Drive,Lee Highway (Route 29),$2.60,2023-04-12 22:45:28
+Northbound,I-95 Near Cardinal Drive,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:45:31
+Northbound,I-95 Near Cardinal Drive,Washington D.C.,nan,2023-04-12 22:45:33
+Northbound,I-95 Near Cardinal Drive,Pentagon/Eads Street,nan,2023-04-12 22:45:35
+Northbound,I-95 Near Cardinal Drive,Washington Boulevard/Route 27,nan,2023-04-12 22:45:38
+Northbound,I-95 Near Cardinal Drive,Seminary Road,nan,2023-04-12 22:45:40
+Northbound,I-95 Near Cardinal Drive,I-395 Near Edsall Road,nan,2023-04-12 22:45:43
+Northbound,I-95 Near Cardinal Drive,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:45:45
+Northbound,I-95 Near Cardinal Drive,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:45:48
+Northbound,I-95 Near Cardinal Drive,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:45:50
+Northbound,I-95 Near Cardinal Drive,Fairfax County Parkway/Route 286,nan,2023-04-12 22:45:53
+Northbound,I-95 Near Cardinal Drive,I-95 Near Gordon Boulevard/Route 123,nan,2023-04-12 22:45:55
+Northbound,I-95 Near Dumfries Road/Route 234,495 Express End (near MD),$9.35,2023-04-12 22:45:58
+Northbound,I-95 Near Dumfries Road/Route 234,Route 267,$8.45,2023-04-12 22:46:00
+Northbound,I-95 Near Dumfries Road/Route 234,Jones Branch Drive/Route 123,$6.35,2023-04-12 22:46:02
+Northbound,I-95 Near Dumfries Road/Route 234,Westpark Drive,$5.25,2023-04-12 22:46:05
+Northbound,I-95 Near Dumfries Road/Route 234,Route 7 (Leesburg Pike),$4.85,2023-04-12 22:46:07
+Northbound,I-95 Near Dumfries Road/Route 234,Interstate 66,$4.20,2023-04-12 22:46:10
+Northbound,I-95 Near Dumfries Road/Route 234,Lee Highway (Route 29),$2.60,2023-04-12 22:46:12
+Northbound,I-95 Near Dumfries Road/Route 234,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:46:14
+Northbound,I-95 Near Dumfries Road/Route 234,Washington D.C.,nan,2023-04-12 22:46:17
+Northbound,I-95 Near Dumfries Road/Route 234,Pentagon/Eads Street,nan,2023-04-12 22:46:19
+Northbound,I-95 Near Dumfries Road/Route 234,Washington Boulevard/Route 27,nan,2023-04-12 22:46:22
+Northbound,I-95 Near Dumfries Road/Route 234,Seminary Road,nan,2023-04-12 22:46:24
+Northbound,I-95 Near Dumfries Road/Route 234,I-395 Near Edsall Road,nan,2023-04-12 22:46:26
+Northbound,I-95 Near Dumfries Road/Route 234,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:46:29
+Northbound,I-95 Near Dumfries Road/Route 234,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:46:31
+Northbound,I-95 Near Dumfries Road/Route 234,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:46:34
+Northbound,I-95 Near Dumfries Road/Route 234,Fairfax County Parkway/Route 286,nan,2023-04-12 22:46:36
+Northbound,I-95 Near Dumfries Road/Route 234,I-95 Near Gordon Boulevard/Route 123,nan,2023-04-12 22:46:39
+Northbound,I-95 Near Garrisonville Road/Route 610,495 Express End (near MD),$8.80,2023-04-12 22:46:42
+Northbound,I-95 Near Garrisonville Road/Route 610,Route 267,$7.00,2023-04-12 22:46:44
+Northbound,I-95 Near Garrisonville Road/Route 610,Jones Branch Drive/Route 123,$4.85,2023-04-12 22:46:46
+Northbound,I-95 Near Garrisonville Road/Route 610,Westpark Drive,$4.55,2023-04-12 22:46:49
+Northbound,I-95 Near Garrisonville Road/Route 610,Route 7 (Leesburg Pike),$4.10,2023-04-12 22:46:51
+Northbound,I-95 Near Garrisonville Road/Route 610,Interstate 66,$3.55,2023-04-12 22:46:53
+Northbound,I-95 Near Garrisonville Road/Route 610,Lee Highway (Route 29),$2.60,2023-04-12 22:46:56
+Northbound,I-95 Near Garrisonville Road/Route 610,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:46:58
+Northbound,I-95 Near Garrisonville Road/Route 610,Washington D.C.,nan,2023-04-12 22:47:00
+Northbound,I-95 Near Garrisonville Road/Route 610,Pentagon/Eads Street,nan,2023-04-12 22:47:03
+Northbound,I-95 Near Garrisonville Road/Route 610,Washington Boulevard/Route 27,nan,2023-04-12 22:47:05
+Northbound,I-95 Near Garrisonville Road/Route 610,Seminary Road,nan,2023-04-12 22:47:08
+Northbound,I-95 Near Garrisonville Road/Route 610,I-395 Near Edsall Road,nan,2023-04-12 22:47:10
+Northbound,I-95 Near Garrisonville Road/Route 610,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:47:13
+Northbound,I-95 Near Garrisonville Road/Route 610,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:47:15
+Northbound,I-95 Near Garrisonville Road/Route 610,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:47:18
+Northbound,I-95 Near Garrisonville Road/Route 610,Fairfax County Parkway/Route 286,nan,2023-04-12 22:47:20
+Northbound,I-95 Near Garrisonville Road/Route 610,I-95 Near Gordon Boulevard/Route 123,nan,2023-04-12 22:47:23
+Northbound,I-95 Near Courthouse Road/Route 630,495 Express End (near MD),$8.80,2023-04-12 22:47:26
+Northbound,I-95 Near Courthouse Road/Route 630,Route 267,$7.00,2023-04-12 22:47:28
+Northbound,I-95 Near Courthouse Road/Route 630,Jones Branch Drive/Route 123,$4.85,2023-04-12 22:47:30
+Northbound,I-95 Near Courthouse Road/Route 630,Westpark Drive,$4.55,2023-04-12 22:47:32
+Northbound,I-95 Near Courthouse Road/Route 630,Route 7 (Leesburg Pike),$4.10,2023-04-12 22:47:35
+Northbound,I-95 Near Courthouse Road/Route 630,Interstate 66,$3.55,2023-04-12 22:47:37
+Northbound,I-95 Near Courthouse Road/Route 630,Lee Highway (Route 29),$2.60,2023-04-12 22:47:39
+Northbound,I-95 Near Courthouse Road/Route 630,I-95/I-395/I-495 (Springfield Interchange),$0.00,2023-04-12 22:47:42
+Northbound,I-95 Near Courthouse Road/Route 630,Washington D.C.,nan,2023-04-12 22:47:44
+Northbound,I-95 Near Courthouse Road/Route 630,Pentagon/Eads Street,nan,2023-04-12 22:47:47
+Northbound,I-95 Near Courthouse Road/Route 630,Washington Boulevard/Route 27,nan,2023-04-12 22:47:49
+Northbound,I-95 Near Courthouse Road/Route 630,Seminary Road,nan,2023-04-12 22:47:52
+Northbound,I-95 Near Courthouse Road/Route 630,I-395 Near Edsall Road,nan,2023-04-12 22:47:54
+Northbound,I-95 Near Courthouse Road/Route 630,495 Express Lanes/I-495/I-95,nan,2023-04-12 22:47:56
+Northbound,I-95 Near Courthouse Road/Route 630,Franconia-Springfield Parkway/Route 289,nan,2023-04-12 22:47:59
+Northbound,I-95 Near Courthouse Road/Route 630,I-95 Near Old Keene Mill Road/Route 644,nan,2023-04-12 22:48:01
+Northbound,I-95 Near Courthouse Road/Route 630,Fairfax County Parkway/Route 286,nan,2023-04-12 22:48:04
+Northbound,I-95 Near Courthouse Road/Route 630,I-95 Near Gordon Boulevard/Route 123,nan,2023-04-12 22:48:06
+Southbound,495 Express Start (near MD),Jones Branch Drive/Route 123,$1.10,2023-04-12 22:48:09
+Southbound,495 Express Start (near MD),Westpark Drive,$1.10,2023-04-12 22:48:12
+Southbound,495 Express Start (near MD),Interstate 66,$2.15,2023-04-12 22:48:14
+Southbound,495 Express Start (near MD),Gallows Road,$3.10,2023-04-12 22:48:16
+Southbound,495 Express Start (near MD),Braddock Road,$4.20,2023-04-12 22:48:19
+Southbound,495 Express Start (near MD),I-95/I-395/I-495 (Springfield Interchange),$4.75,2023-04-12 22:48:21
+Southbound,495 Express Start (near MD),I-95/I-395 Express Lanes ramps,$4.75,2023-04-12 22:48:23
+Southbound,495 Express Start (near MD),Washington D.C.,$4.75,2023-04-12 22:48:26
+Southbound,495 Express Start (near MD),Pentagon/Eads Street,$4.75,2023-04-12 22:48:28
+Southbound,495 Express Start (near MD),Washington Boulevard/Route 27,$4.75,2023-04-12 22:48:30
+Southbound,495 Express Start (near MD),Seminary Road,$4.75,2023-04-12 22:48:33
+Southbound,495 Express Start (near MD),I-395 Near Edsall Road,$4.75,2023-04-12 22:48:35
+Southbound,495 Express Start (near MD),Old Keene Mill Road/Route 644,$6.75,2023-04-12 22:48:38
+Southbound,495 Express Start (near MD),I-95 Near Backlick Road,$7.00,2023-04-12 22:48:40
+Southbound,495 Express Start (near MD),Franconia-Springfield Parkway/Route 289,$7.00,2023-04-12 22:48:43
+Southbound,495 Express Start (near MD),US-1,$9.35,2023-04-12 22:48:45
+Southbound,495 Express Start (near MD),Gordon Boulevard/Route 123,$9.70,2023-04-12 22:48:48
+Southbound,495 Express Start (near MD),Prince William Parkway/Route 294,$10.15,2023-04-12 22:48:50
+Southbound,495 Express Start (near MD),I-95 Near Dale Boulevard,$10.45,2023-04-12 22:48:53
+Southbound,495 Express Start (near MD),I-95 Near Dumfries Road/Route 234,$12.45,2023-04-12 22:48:55
+Southbound,495 Express Start (near MD),I-95 Near Joplin Road/Quantico,$12.85,2023-04-12 22:48:58
+Southbound,495 Express Start (near MD),I-95 Near Garrisonville Road/Route 610,$15.05,2023-04-12 22:49:00
+Southbound,495 Express Start (near MD),I-95 Near Courthouse Road/Route 630,$15.05,2023-04-12 22:49:03
+Southbound,Route 267,Westpark Drive,$1.10,2023-04-12 22:49:06
+Southbound,Route 267,Interstate 66,$1.85,2023-04-12 22:49:08
+Southbound,Route 267,Gallows Road,$2.80,2023-04-12 22:49:10
+Southbound,Route 267,Braddock Road,$3.85,2023-04-12 22:49:13
+Southbound,Route 267,I-95/I-395/I-495 (Springfield Interchange),$4.40,2023-04-12 22:49:15
+Southbound,Route 267,I-95/I-395 Express Lanes ramps,$4.40,2023-04-12 22:49:17
+Southbound,Route 267,Washington D.C.,$4.40,2023-04-12 22:49:20
+Southbound,Route 267,Pentagon/Eads Street,$4.40,2023-04-12 22:49:22
+Southbound,Route 267,Washington Boulevard/Route 27,$4.40,2023-04-12 22:49:24
+Southbound,Route 267,Seminary Road,$4.40,2023-04-12 22:49:27
+Southbound,Route 267,I-395 Near Edsall Road,$4.40,2023-04-12 22:49:29
+Southbound,Route 267,Old Keene Mill Road/Route 644,$6.40,2023-04-12 22:49:32
+Southbound,Route 267,I-95 Near Backlick Road,$6.65,2023-04-12 22:49:34
+Southbound,Route 267,Franconia-Springfield Parkway/Route 289,$6.65,2023-04-12 22:49:37
+Southbound,Route 267,US-1,$9.00,2023-04-12 22:49:39
+Southbound,Route 267,Gordon Boulevard/Route 123,$9.35,2023-04-12 22:49:42
+Southbound,Route 267,Prince William Parkway/Route 294,$9.80,2023-04-12 22:49:44
+Southbound,Route 267,I-95 Near Dale Boulevard,$10.10,2023-04-12 22:49:47
+Southbound,Route 267,I-95 Near Dumfries Road/Route 234,$12.10,2023-04-12 22:49:49
+Southbound,Route 267,I-95 Near Joplin Road/Quantico,$12.50,2023-04-12 22:49:52
+Southbound,Route 267,I-95 Near Garrisonville Road/Route 610,$14.70,2023-04-12 22:49:54
+Southbound,Route 267,I-95 Near Courthouse Road/Route 630,$14.70,2023-04-12 22:49:57
+Southbound,Jones Branch Drive/Route 123,Westpark Drive,$0.85,2023-04-12 22:49:59
+Southbound,Jones Branch Drive/Route 123,Interstate 66,$1.45,2023-04-12 22:50:02
+Southbound,Jones Branch Drive/Route 123,Gallows Road,$2.35,2023-04-12 22:50:04
+Southbound,Jones Branch Drive/Route 123,Braddock Road,$3.45,2023-04-12 22:50:06
+Southbound,Jones Branch Drive/Route 123,I-95/I-395/I-495 (Springfield Interchange),$4.00,2023-04-12 22:50:09
+Southbound,Jones Branch Drive/Route 123,I-95/I-395 Express Lanes ramps,$4.00,2023-04-12 22:50:11
+Southbound,Jones Branch Drive/Route 123,Washington D.C.,nan,2023-04-12 22:50:13
+Southbound,Jones Branch Drive/Route 123,Pentagon/Eads Street,$4.00,2023-04-12 22:50:16
+Southbound,Jones Branch Drive/Route 123,Washington Boulevard/Route 27,$4.00,2023-04-12 22:50:18
+Southbound,Jones Branch Drive/Route 123,Seminary Road,$4.00,2023-04-12 22:50:21
+Southbound,Jones Branch Drive/Route 123,I-395 Near Edsall Road,$4.00,2023-04-12 22:50:23
+Southbound,Jones Branch Drive/Route 123,Old Keene Mill Road/Route 644,$6.00,2023-04-12 22:50:25
+Southbound,Jones Branch Drive/Route 123,I-95 Near Backlick Road,$6.25,2023-04-12 22:50:28
+Southbound,Jones Branch Drive/Route 123,Franconia-Springfield Parkway/Route 289,$6.25,2023-04-12 22:50:30
+Southbound,Jones Branch Drive/Route 123,US-1,$8.60,2023-04-12 22:50:33
+Southbound,Jones Branch Drive/Route 123,Gordon Boulevard/Route 123,$8.95,2023-04-12 22:50:35
+Southbound,Jones Branch Drive/Route 123,Prince William Parkway/Route 294,$9.40,2023-04-12 22:50:38
+Southbound,Jones Branch Drive/Route 123,I-95 Near Dale Boulevard,$9.70,2023-04-12 22:50:40
+Southbound,Jones Branch Drive/Route 123,I-95 Near Dumfries Road/Route 234,$11.70,2023-04-12 22:50:43
+Southbound,Jones Branch Drive/Route 123,I-95 Near Joplin Road/Quantico,$12.10,2023-04-12 22:50:45
+Southbound,Jones Branch Drive/Route 123,I-95 Near Garrisonville Road/Route 610,$14.30,2023-04-12 22:50:48
+Southbound,Jones Branch Drive/Route 123,I-95 Near Courthouse Road/Route 630,$14.30,2023-04-12 22:50:51
+Southbound,Westpark Drive,Interstate 66,$1.15,2023-04-12 22:50:53
+Southbound,Westpark Drive,Gallows Road,$2.05,2023-04-12 22:50:55
+Southbound,Westpark Drive,Braddock Road,$3.15,2023-04-12 22:50:58
+Southbound,Westpark Drive,I-95/I-395/I-495 (Springfield Interchange),$3.70,2023-04-12 22:51:00
+Southbound,Westpark Drive,I-95/I-395 Express Lanes ramps,$3.70,2023-04-12 22:51:02
+Southbound,Westpark Drive,Washington D.C.,$3.70,2023-04-12 22:51:05
+Southbound,Westpark Drive,Pentagon/Eads Street,$3.70,2023-04-12 22:51:07
+Southbound,Westpark Drive,Washington Boulevard/Route 27,$3.70,2023-04-12 22:51:09
+Southbound,Westpark Drive,Seminary Road,$3.70,2023-04-12 22:51:12
+Southbound,Westpark Drive,I-395 Near Edsall Road,$3.70,2023-04-12 22:51:14
+Southbound,Westpark Drive,Old Keene Mill Road/Route 644,$5.70,2023-04-12 22:51:17
+Southbound,Westpark Drive,I-95 Near Backlick Road,$5.95,2023-04-12 22:51:19
+Southbound,Westpark Drive,Franconia-Springfield Parkway/Route 289,$5.95,2023-04-12 22:51:22
+Southbound,Westpark Drive,US-1,$8.30,2023-04-12 22:51:24
+Southbound,Westpark Drive,Gordon Boulevard/Route 123,$8.65,2023-04-12 22:51:27
+Southbound,Westpark Drive,Prince William Parkway/Route 294,$9.10,2023-04-12 22:51:29
+Southbound,Westpark Drive,I-95 Near Dale Boulevard,$9.40,2023-04-12 22:51:32
+Southbound,Westpark Drive,I-95 Near Dumfries Road/Route 234,$11.40,2023-04-12 22:51:34
+Southbound,Westpark Drive,I-95 Near Joplin Road/Quantico,$11.80,2023-04-12 22:51:37
+Southbound,Westpark Drive,I-95 Near Garrisonville Road/Route 610,$14.00,2023-04-12 22:51:39
+Southbound,Westpark Drive,I-95 Near Courthouse Road/Route 630,$14.00,2023-04-12 22:51:42
+Southbound,Route 7 (Leesburg Pike),Interstate 66,$1.10,2023-04-12 22:51:44
+Southbound,Route 7 (Leesburg Pike),Gallows Road,$1.60,2023-04-12 22:51:47
+Southbound,Route 7 (Leesburg Pike),Braddock Road,$2.70,2023-04-12 22:51:49
+Southbound,Route 7 (Leesburg Pike),I-95/I-395/I-495 (Springfield Interchange),$3.25,2023-04-12 22:51:51
+Southbound,Route 7 (Leesburg Pike),I-95/I-395 Express Lanes ramps,$3.25,2023-04-12 22:51:54
+Southbound,Route 7 (Leesburg Pike),Washington D.C.,$3.25,2023-04-12 22:51:56
+Southbound,Route 7 (Leesburg Pike),Pentagon/Eads Street,$3.25,2023-04-12 22:51:58
+Southbound,Route 7 (Leesburg Pike),Washington Boulevard/Route 27,$3.25,2023-04-12 22:52:01
+Southbound,Route 7 (Leesburg Pike),Seminary Road,$3.25,2023-04-12 22:52:03
+Southbound,Route 7 (Leesburg Pike),I-395 Near Edsall Road,$3.25,2023-04-12 22:52:06
+Southbound,Route 7 (Leesburg Pike),Old Keene Mill Road/Route 644,$5.25,2023-04-12 22:52:08
+Southbound,Route 7 (Leesburg Pike),I-95 Near Backlick Road,$5.50,2023-04-12 22:52:11
+Southbound,Route 7 (Leesburg Pike),Franconia-Springfield Parkway/Route 289,$5.50,2023-04-12 22:52:13
+Southbound,Route 7 (Leesburg Pike),US-1,$7.85,2023-04-12 22:52:15
+Southbound,Route 7 (Leesburg Pike),Gordon Boulevard/Route 123,$8.20,2023-04-12 22:52:18
+Southbound,Route 7 (Leesburg Pike),Prince William Parkway/Route 294,$8.65,2023-04-12 22:52:20
+Southbound,Route 7 (Leesburg Pike),I-95 Near Dale Boulevard,$8.95,2023-04-12 22:52:23
+Southbound,Route 7 (Leesburg Pike),I-95 Near Dumfries Road/Route 234,$10.95,2023-04-12 22:52:26
+Southbound,Route 7 (Leesburg Pike),I-95 Near Joplin Road/Quantico,$11.35,2023-04-12 22:52:28
+Southbound,Route 7 (Leesburg Pike),I-95 Near Garrisonville Road/Route 610,$13.55,2023-04-12 22:52:31
+Southbound,Route 7 (Leesburg Pike),I-95 Near Courthouse Road/Route 630,$13.55,2023-04-12 22:52:33
+Southbound,Interstate 66,Gallows Road,$1.10,2023-04-12 22:52:36
+Southbound,Interstate 66,Braddock Road,$2.00,2023-04-12 22:52:38
+Southbound,Interstate 66,I-95/I-395/I-495 (Springfield Interchange),$2.55,2023-04-12 22:52:40
+Southbound,Interstate 66,I-95/I-395 Express Lanes ramps,$2.55,2023-04-12 22:52:43
+Southbound,Interstate 66,Washington D.C.,$2.55,2023-04-12 22:52:45
+Southbound,Interstate 66,Pentagon/Eads Street,$2.55,2023-04-12 22:52:47
+Southbound,Interstate 66,Washington Boulevard/Route 27,$2.55,2023-04-12 22:52:50
+Southbound,Interstate 66,Seminary Road,$2.55,2023-04-12 22:52:52
+Southbound,Interstate 66,I-395 Near Edsall Road,$2.55,2023-04-12 22:52:55
+Southbound,Interstate 66,Old Keene Mill Road/Route 644,$4.55,2023-04-12 22:52:57
+Southbound,Interstate 66,I-95 Near Backlick Road,$4.80,2023-04-12 22:52:59
+Southbound,Interstate 66,Franconia-Springfield Parkway/Route 289,$4.80,2023-04-12 22:53:02
+Southbound,Interstate 66,US-1,$7.15,2023-04-12 22:53:04
+Southbound,Interstate 66,Gordon Boulevard/Route 123,$7.50,2023-04-12 22:53:07
+Southbound,Interstate 66,Prince William Parkway/Route 294,$7.95,2023-04-12 22:53:09
+Southbound,Interstate 66,I-95 Near Dale Boulevard,$8.25,2023-04-12 22:53:12
+Southbound,Interstate 66,I-95 Near Dumfries Road/Route 234,$10.25,2023-04-12 22:53:14
+Southbound,Interstate 66,I-95 Near Joplin Road/Quantico,$10.65,2023-04-12 22:53:17
+Southbound,Interstate 66,I-95 Near Garrisonville Road/Route 610,$12.85,2023-04-12 22:53:19
+Southbound,Interstate 66,I-95 Near Courthouse Road/Route 630,$12.85,2023-04-12 22:53:22
+Southbound,Lee Highway (Route 29),Gallows Road,$0.85,2023-04-12 22:53:25
+Southbound,Lee Highway (Route 29),Braddock Road,$1.55,2023-04-12 22:53:27
+Southbound,Lee Highway (Route 29),I-95/I-395/I-495 (Springfield Interchange),$2.10,2023-04-12 22:53:29
+Southbound,Lee Highway (Route 29),I-95/I-395 Express Lanes ramps,$2.10,2023-04-12 22:53:31
+Southbound,Lee Highway (Route 29),Washington D.C.,$2.10,2023-04-12 22:53:34
+Southbound,Lee Highway (Route 29),Pentagon/Eads Street,$2.10,2023-04-12 22:53:36
+Southbound,Lee Highway (Route 29),Washington Boulevard/Route 27,$2.10,2023-04-12 22:53:39
+Southbound,Lee Highway (Route 29),Seminary Road,$2.10,2023-04-12 22:53:41
+Southbound,Lee Highway (Route 29),I-395 Near Edsall Road,$2.10,2023-04-12 22:53:43
+Southbound,Lee Highway (Route 29),Old Keene Mill Road/Route 644,$4.10,2023-04-12 22:53:46
+Southbound,Lee Highway (Route 29),I-95 Near Backlick Road,$4.35,2023-04-12 22:53:48
+Southbound,Lee Highway (Route 29),Franconia-Springfield Parkway/Route 289,$4.35,2023-04-12 22:53:51
+Southbound,Lee Highway (Route 29),US-1,$6.70,2023-04-12 22:53:53
+Southbound,Lee Highway (Route 29),Gordon Boulevard/Route 123,$7.05,2023-04-12 22:53:56
+Southbound,Lee Highway (Route 29),Prince William Parkway/Route 294,$7.50,2023-04-12 22:53:58
+Southbound,Lee Highway (Route 29),I-95 Near Dale Boulevard,$7.80,2023-04-12 22:54:01
+Southbound,Lee Highway (Route 29),I-95 Near Dumfries Road/Route 234,$9.80,2023-04-12 22:54:03
+Southbound,Lee Highway (Route 29),I-95 Near Joplin Road/Quantico,$10.20,2023-04-12 22:54:06
+Southbound,Lee Highway (Route 29),I-95 Near Garrisonville Road/Route 610,$12.40,2023-04-12 22:54:08
+Southbound,Lee Highway (Route 29),I-95 Near Courthouse Road/Route 630,$12.40,2023-04-12 22:54:11
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95/I-395 Express Lanes ramps,$0.00,2023-04-12 22:54:13
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Washington D.C.,nan,2023-04-12 22:54:16
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Pentagon/Eads Street,nan,2023-04-12 22:54:18
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Washington Boulevard/Route 27,nan,2023-04-12 22:54:20
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Seminary Road,nan,2023-04-12 22:54:23
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-395 Near Edsall Road,nan,2023-04-12 22:54:25
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Old Keene Mill Road/Route 644,$2.00,2023-04-12 22:54:27
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Backlick Road,$2.25,2023-04-12 22:54:30
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Franconia-Springfield Parkway/Route 289,$2.25,2023-04-12 22:54:32
+Southbound,I-95/I-395/I-495 (Springfield Interchange),US-1,$4.60,2023-04-12 22:54:34
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Gordon Boulevard/Route 123,$4.95,2023-04-12 22:54:37
+Southbound,I-95/I-395/I-495 (Springfield Interchange),Prince William Parkway/Route 294,$5.40,2023-04-12 22:54:39
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Dale Boulevard,$5.70,2023-04-12 22:54:42
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Dumfries Road/Route 234,$7.70,2023-04-12 22:54:44
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Joplin Road/Quantico,$8.10,2023-04-12 22:54:47
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Garrisonville Road/Route 610,$10.30,2023-04-12 22:54:49
+Southbound,I-95/I-395/I-495 (Springfield Interchange),I-95 Near Courthouse Road/Route 630,$10.30,2023-04-12 22:54:52
+Southbound,Washington D.C.,495 Express End (near MD),$13.30,2023-04-12 22:54:54
+Southbound,Washington D.C.,Route 267,$11.50,2023-04-12 22:54:57
+Southbound,Washington D.C.,Jones Branch Drive/Route 123,$9.35,2023-04-12 22:54:59
+Southbound,Washington D.C.,Westpark Drive,$9.05,2023-04-12 22:55:01
+Southbound,Washington D.C.,Route 7 (Leesburg Pike),$8.60,2023-04-12 22:55:04
+Southbound,Washington D.C.,Interstate 66,$8.05,2023-04-12 22:55:06
+Southbound,Washington D.C.,Lee Highway (Route 29),$7.10,2023-04-12 22:55:08
+Southbound,Washington D.C.,I-95/I-395/I-495 (Springfield Interchange),$4.50,2023-04-12 22:55:11
+Southbound,Washington D.C.,Shirlington Circle,$2.00,2023-04-12 22:55:13
+Southbound,Washington D.C.,Seminary Road,$2.25,2023-04-12 22:55:16
+Southbound,Washington D.C.,I-395 Near Edsall Road,$2.50,2023-04-12 22:55:18
+Southbound,Washington D.C.,495 Express Lanes/I-495/I-95,$4.50,2023-04-12 22:55:20
+Southbound,Washington D.C.,Old Keene Mill Road/Route 644,$4.75,2023-04-12 22:55:23
+Southbound,Washington D.C.,I-95 Near Backlick Road,$5.00,2023-04-12 22:55:25
+Southbound,Washington D.C.,Franconia-Springfield Parkway/Route 289,$5.00,2023-04-12 22:55:28
+Southbound,Washington D.C.,US-1,$7.35,2023-04-12 22:55:30
+Southbound,Washington D.C.,Gordon Boulevard/Route 123,$7.70,2023-04-12 22:55:33
+Southbound,Washington D.C.,Prince William Parkway/Route 294,$8.15,2023-04-12 22:55:35
+Southbound,Washington D.C.,I-95 Near Dale Boulevard,$8.45,2023-04-12 22:55:38
+Southbound,Washington D.C.,I-95 Near Dumfries Road/Route 234,$10.45,2023-04-12 22:55:40
+Southbound,Washington D.C.,I-95 Near Joplin Road/Quantico,$10.85,2023-04-12 22:55:43
+Southbound,Washington D.C.,I-95 Near Garrisonville Road/Route 610,$13.05,2023-04-12 22:55:46
+Southbound,Washington D.C.,I-95 Near Courthouse Road/Route 630,$13.05,2023-04-12 22:55:48
+Southbound,Pentagon/Eads Street,495 Express End (near MD),$13.30,2023-04-12 22:55:51
+Southbound,Pentagon/Eads Street,Route 267,$11.50,2023-04-12 22:55:53
+Southbound,Pentagon/Eads Street,Jones Branch Drive/Route 123,$9.35,2023-04-12 22:55:55
+Southbound,Pentagon/Eads Street,Westpark Drive,$9.05,2023-04-12 22:55:58
+Southbound,Pentagon/Eads Street,Route 7 (Leesburg Pike),$8.60,2023-04-12 22:56:00
+Southbound,Pentagon/Eads Street,Interstate 66,$8.05,2023-04-12 22:56:02
+Southbound,Pentagon/Eads Street,Lee Highway (Route 29),$7.10,2023-04-12 22:56:05
+Southbound,Pentagon/Eads Street,I-95/I-395/I-495 (Springfield Interchange),$4.50,2023-04-12 22:56:07
+Southbound,Pentagon/Eads Street,Shirlington Circle,$2.00,2023-04-12 22:56:10
+Southbound,Pentagon/Eads Street,Seminary Road,$2.25,2023-04-12 22:56:12
+Southbound,Pentagon/Eads Street,I-395 Near Edsall Road,$3.15,2023-04-12 22:56:14
+Southbound,Pentagon/Eads Street,495 Express Lanes/I-495/I-95,$5.15,2023-04-12 22:56:17
+Southbound,Pentagon/Eads Street,Old Keene Mill Road/Route 644,$5.40,2023-04-12 22:56:19
+Southbound,Pentagon/Eads Street,I-95 Near Backlick Road,$5.65,2023-04-12 22:56:22
+Southbound,Pentagon/Eads Street,Franconia-Springfield Parkway/Route 289,$5.65,2023-04-12 22:56:24
+Southbound,Pentagon/Eads Street,US-1,$9.00,2023-04-12 22:56:27
+Southbound,Pentagon/Eads Street,Gordon Boulevard/Route 123,$9.40,2023-04-12 22:56:29
+Southbound,Pentagon/Eads Street,Prince William Parkway/Route 294,$10.20,2023-04-12 22:56:32
+Southbound,Pentagon/Eads Street,I-95 Near Dale Boulevard,$10.70,2023-04-12 22:56:34
+Southbound,Pentagon/Eads Street,I-95 Near Dumfries Road/Route 234,$12.70,2023-04-12 22:56:37
+Southbound,Pentagon/Eads Street,I-95 Near Joplin Road/Quantico,$13.15,2023-04-12 22:56:39
+Southbound,Pentagon/Eads Street,I-95 Near Garrisonville Road/Route 610,$15.60,2023-04-12 22:56:42
+Southbound,Pentagon/Eads Street,I-95 Near Courthouse Road/Route 630,$15.60,2023-04-12 22:56:45
+Southbound,Washington Boulevard/Route 27,495 Express End (near MD),$15.05,2023-04-12 22:56:47
+Southbound,Washington Boulevard/Route 27,Route 267,$13.35,2023-04-12 22:56:50
+Southbound,Washington Boulevard/Route 27,Jones Branch Drive/Route 123,$11.20,2023-04-12 22:56:52
+Southbound,Washington Boulevard/Route 27,Westpark Drive,$10.10,2023-04-12 22:56:54
+Southbound,Washington Boulevard/Route 27,Route 7 (Leesburg Pike),$9.65,2023-04-12 22:56:57
+Southbound,Washington Boulevard/Route 27,Interstate 66,$8.85,2023-04-12 22:56:59
+Southbound,Washington Boulevard/Route 27,Lee Highway (Route 29),$7.80,2023-04-12 22:57:01
+Southbound,Washington Boulevard/Route 27,I-95/I-395/I-495 (Springfield Interchange),$5.15,2023-04-12 22:57:04
+Southbound,Washington Boulevard/Route 27,Shirlington Circle,$2.00,2023-04-12 22:57:06
+Southbound,Washington Boulevard/Route 27,Seminary Road,$2.65,2023-04-12 22:57:08
+Southbound,Washington Boulevard/Route 27,I-395 Near Edsall Road,$3.15,2023-04-12 22:57:11
+Southbound,Washington Boulevard/Route 27,495 Express Lanes/I-495/I-95,$5.15,2023-04-12 22:57:13
+Southbound,Washington Boulevard/Route 27,Old Keene Mill Road/Route 644,$5.40,2023-04-12 22:57:16
+Southbound,Washington Boulevard/Route 27,I-95 Near Backlick Road,$5.65,2023-04-12 22:57:18
+Southbound,Washington Boulevard/Route 27,Franconia-Springfield Parkway/Route 289,$5.65,2023-04-12 22:57:21
+Southbound,Washington Boulevard/Route 27,US-1,$9.00,2023-04-12 22:57:23
+Southbound,Washington Boulevard/Route 27,Gordon Boulevard/Route 123,$9.40,2023-04-12 22:57:26
+Southbound,Washington Boulevard/Route 27,Prince William Parkway/Route 294,$10.20,2023-04-12 22:57:28
+Southbound,Washington Boulevard/Route 27,I-95 Near Dale Boulevard,$10.70,2023-04-12 22:57:31
+Southbound,Washington Boulevard/Route 27,I-95 Near Dumfries Road/Route 234,$12.70,2023-04-12 22:57:33
+Southbound,Washington Boulevard/Route 27,I-95 Near Joplin Road/Quantico,$13.15,2023-04-12 22:57:36
+Southbound,Washington Boulevard/Route 27,I-95 Near Garrisonville Road/Route 610,$15.60,2023-04-12 22:57:39
+Southbound,Washington Boulevard/Route 27,I-95 Near Courthouse Road/Route 630,$15.60,2023-04-12 22:57:41
+Southbound,Seminary Road,495 Express End (near MD),$13.90,2023-04-12 22:57:44
+Southbound,Seminary Road,Route 267,$12.20,2023-04-12 22:57:46
+Southbound,Seminary Road,Jones Branch Drive/Route 123,$10.05,2023-04-12 22:57:49
+Southbound,Seminary Road,Westpark Drive,$8.95,2023-04-12 22:57:51
+Southbound,Seminary Road,Route 7 (Leesburg Pike),$8.50,2023-04-12 22:57:53
+Southbound,Seminary Road,Interstate 66,$7.70,2023-04-12 22:57:56
+Southbound,Seminary Road,Lee Highway (Route 29),$6.65,2023-04-12 22:57:58
+Southbound,Seminary Road,I-95/I-395/I-495 (Springfield Interchange),$4.00,2023-04-12 22:58:00
+Southbound,Seminary Road,I-395 Near Edsall Road,$2.00,2023-04-12 22:58:03
+Southbound,Seminary Road,495 Express Lanes/I-495/I-95,$4.00,2023-04-12 22:58:05
+Southbound,Seminary Road,Old Keene Mill Road/Route 644,$4.25,2023-04-12 22:58:08
+Southbound,Seminary Road,I-95 Near Backlick Road,$4.50,2023-04-12 22:58:10
+Southbound,Seminary Road,Franconia-Springfield Parkway/Route 289,$4.50,2023-04-12 22:58:12
+Southbound,Seminary Road,US-1,$7.85,2023-04-12 22:58:15
+Southbound,Seminary Road,Gordon Boulevard/Route 123,$8.25,2023-04-12 22:58:17
+Southbound,Seminary Road,Prince William Parkway/Route 294,$9.05,2023-04-12 22:58:20
+Southbound,Seminary Road,I-95 Near Dale Boulevard,$9.55,2023-04-12 22:58:23
+Southbound,Seminary Road,I-95 Near Dumfries Road/Route 234,$11.55,2023-04-12 22:58:25
+Southbound,Seminary Road,I-95 Near Joplin Road/Quantico,$12.00,2023-04-12 22:58:28
+Southbound,Seminary Road,I-95 Near Garrisonville Road/Route 610,$14.45,2023-04-12 22:58:30
+Southbound,Seminary Road,I-95 Near Courthouse Road/Route 630,$14.45,2023-04-12 22:58:33
+Southbound,I-395 Near Edsall Road,495 Express End (near MD),$11.90,2023-04-12 22:58:35
+Southbound,I-395 Near Edsall Road,Route 267,$10.20,2023-04-12 22:58:38
+Southbound,I-395 Near Edsall Road,Jones Branch Drive/Route 123,$8.05,2023-04-12 22:58:40
+Southbound,I-395 Near Edsall Road,Westpark Drive,$6.95,2023-04-12 22:58:42
+Southbound,I-395 Near Edsall Road,Route 7 (Leesburg Pike),$6.50,2023-04-12 22:58:45
+Southbound,I-395 Near Edsall Road,Interstate 66,$5.70,2023-04-12 22:58:47
+Southbound,I-395 Near Edsall Road,Lee Highway (Route 29),$4.65,2023-04-12 22:58:49
+Southbound,I-395 Near Edsall Road,I-95/I-395/I-495 (Springfield Interchange),$2.00,2023-04-12 22:58:52
+Southbound,I-395 Near Edsall Road,495 Express Lanes/I-495/I-95,$2.00,2023-04-12 22:58:54
+Southbound,I-395 Near Edsall Road,Old Keene Mill Road/Route 644,$2.25,2023-04-12 22:58:57
+Southbound,I-395 Near Edsall Road,I-95 Near Backlick Road,$2.50,2023-04-12 22:58:59
+Southbound,I-395 Near Edsall Road,Franconia-Springfield Parkway/Route 289,$2.50,2023-04-12 22:59:02
+Southbound,I-395 Near Edsall Road,US-1,$5.85,2023-04-12 22:59:04
+Southbound,I-395 Near Edsall Road,Gordon Boulevard/Route 123,$6.25,2023-04-12 22:59:06
+Southbound,I-395 Near Edsall Road,Prince William Parkway/Route 294,$7.05,2023-04-12 22:59:09
+Southbound,I-395 Near Edsall Road,I-95 Near Dale Boulevard,$7.55,2023-04-12 22:59:11
+Southbound,I-395 Near Edsall Road,I-95 Near Dumfries Road/Route 234,$9.55,2023-04-12 22:59:14
+Southbound,I-395 Near Edsall Road,I-95 Near Joplin Road/Quantico,$10.00,2023-04-12 22:59:17
+Southbound,I-395 Near Edsall Road,I-95 Near Garrisonville Road/Route 610,$12.45,2023-04-12 22:59:19
+Southbound,I-395 Near Edsall Road,I-95 Near Courthouse Road/Route 630,$12.45,2023-04-12 22:59:22
+Southbound,495 Express Lanes/I-495/I-95,Old Keene Mill Road/Route 644,$2.00,2023-04-12 22:59:24
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Backlick Road,$2.25,2023-04-12 22:59:27
+Southbound,495 Express Lanes/I-495/I-95,Franconia-Springfield Parkway/Route 289,$2.25,2023-04-12 22:59:29
+Southbound,495 Express Lanes/I-495/I-95,US-1,$5.60,2023-04-12 22:59:31
+Southbound,495 Express Lanes/I-495/I-95,Gordon Boulevard/Route 123,$6.00,2023-04-12 22:59:34
+Southbound,495 Express Lanes/I-495/I-95,Prince William Parkway/Route 294,$6.80,2023-04-12 22:59:36
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Dale Boulevard,$7.30,2023-04-12 22:59:38
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Dumfries Road/Route 234,$9.30,2023-04-12 22:59:41
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Joplin Road/Quantico,$9.75,2023-04-12 22:59:43
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Garrisonville Road/Route 610,$12.20,2023-04-12 22:59:45
+Southbound,495 Express Lanes/I-495/I-95,I-95 Near Courthouse Road/Route 630,$12.20,2023-04-12 22:59:48
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,US-1,$3.20,2023-04-12 22:59:50
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,Gordon Boulevard/Route 123,$3.60,2023-04-12 22:59:53
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,Prince William Parkway/Route 294,$4.35,2023-04-12 22:59:55
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,I-95 Near Dale Boulevard,$4.90,2023-04-12 22:59:57
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,I-95 Near Dumfries Road/Route 234,$6.90,2023-04-12 23:00:00
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,I-95 Near Joplin Road/Quantico,$7.35,2023-04-12 23:00:02
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,I-95 Near Garrisonville Road/Route 610,$9.80,2023-04-12 23:00:04
+Southbound,I-95 Near Franconia-Springfield Pkwy SB,I-95 Near Courthouse Road/Route 630,$9.80,2023-04-12 23:00:07
+Southbound,Franconia-Springfield Parkway/Route 289,US-1,$3.35,2023-04-12 23:00:09
+Southbound,Franconia-Springfield Parkway/Route 289,Gordon Boulevard/Route 123,$3.75,2023-04-12 23:00:12
+Southbound,Franconia-Springfield Parkway/Route 289,Prince William Parkway/Route 294,$3.75,2023-04-12 23:00:14
+Southbound,Franconia-Springfield Parkway/Route 289,I-95 Near Dale Boulevard,$5.05,2023-04-12 23:00:16
+Southbound,Franconia-Springfield Parkway/Route 289,I-95 Near Dumfries Road/Route 234,$7.05,2023-04-12 23:00:19
+Southbound,Franconia-Springfield Parkway/Route 289,I-95 Near Joplin Road/Quantico,$7.50,2023-04-12 23:00:21
+Southbound,Franconia-Springfield Parkway/Route 289,I-95 Near Garrisonville Road/Route 610,$9.95,2023-04-12 23:00:23
+Southbound,Franconia-Springfield Parkway/Route 289,I-95 Near Courthouse Road/Route 630,$9.95,2023-04-12 23:00:26
+Southbound,Heller Road,US-1,$3.20,2023-04-12 23:00:28
+Southbound,Heller Road,Gordon Boulevard/Route 123,$3.60,2023-04-12 23:00:31
+Southbound,Heller Road,Prince William Parkway/Route 294,$4.35,2023-04-12 23:00:33
+Southbound,Heller Road,I-95 Near Dale Boulevard,$4.90,2023-04-12 23:00:35
+Southbound,Heller Road,I-95 Near Dumfries Road/Route 234,$6.90,2023-04-12 23:00:38
+Southbound,Heller Road,I-95 Near Joplin Road/Quantico,$7.35,2023-04-12 23:00:40
+Southbound,Heller Road,I-95 Near Garrisonville Road/Route 610,$9.80,2023-04-12 23:00:42
+Southbound,Heller Road,I-95 Near Courthouse Road/Route 630,$9.80,2023-04-12 23:00:45
+Southbound,Fairfax County Parkway/Route 286,US-1,$3.20,2023-04-12 23:00:47
+Southbound,Fairfax County Parkway/Route 286,Gordon Boulevard/Route 123,$3.60,2023-04-12 23:00:50
+Southbound,Fairfax County Parkway/Route 286,Prince William Parkway/Route 294,$4.35,2023-04-12 23:00:52
+Southbound,Fairfax County Parkway/Route 286,I-95 Near Dale Boulevard,$4.90,2023-04-12 23:00:54
+Southbound,Fairfax County Parkway/Route 286,I-95 Near Dumfries Road/Route 234,$6.90,2023-04-12 23:00:57
+Southbound,Fairfax County Parkway/Route 286,I-95 Near Joplin Road/Quantico,$7.35,2023-04-12 23:00:59
+Southbound,Fairfax County Parkway/Route 286,I-95 Near Garrisonville Road/Route 610,$9.80,2023-04-12 23:01:01
+Southbound,Fairfax County Parkway/Route 286,I-95 Near Courthouse Road/Route 630,$9.80,2023-04-12 23:01:04
+Southbound,I-95 Near US-1,Gordon Boulevard/Route 123,$2.00,2023-04-12 23:01:06
+Southbound,I-95 Near US-1,Prince William Parkway/Route 294,$2.25,2023-04-12 23:01:09
+Southbound,I-95 Near US-1,I-95 Near Dale Boulevard,$2.50,2023-04-12 23:01:11
+Southbound,I-95 Near US-1,I-95 Near Dumfries Road/Route 234,$4.50,2023-04-12 23:01:13
+Southbound,I-95 Near US-1,I-95 Near Joplin Road/Quantico,$4.95,2023-04-12 23:01:15
+Southbound,I-95 Near US-1,I-95 Near Garrisonville Road/Route 610,$7.40,2023-04-12 23:01:18
+Southbound,I-95 Near US-1,I-95 Near Courthouse Road/Route 630,$7.40,2023-04-12 23:01:20
+Southbound,I-95 Near Opitz Boulevard,I-95 Near Dumfries Road/Route 234,$2.00,2023-04-12 23:01:23
+Southbound,I-95 Near Opitz Boulevard,I-95 Near Joplin Road/Quantico,$2.45,2023-04-12 23:01:25
+Southbound,I-95 Near Opitz Boulevard,I-95 Near Garrisonville Road/Route 610,$4.90,2023-04-12 23:01:27
+Southbound,I-95 Near Opitz Boulevard,I-95 Near Courthouse Road/Route 630,$4.90,2023-04-12 23:01:30
